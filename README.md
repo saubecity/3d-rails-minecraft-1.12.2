@@ -19,3 +19,5 @@ If you want to report a bug please contact me with a discord: saubecity#3427
 **warning:** *for some encoding reason, you must unzip the resource pack beford using it*
 
 **警告：** *エンコード上の理由により、リソースパックを使用する前に解凍する必要があります*
+
+|> download located in releases section <|

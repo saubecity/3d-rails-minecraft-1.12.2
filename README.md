@@ -21,3 +21,5 @@ If you want to report a bug please contact me with a discord: saubecity#3427
 **警告：** *エンコード上の理由により、リソースパックを使用する前に解凍する必要があります*
 
 |> download located in releases section <|
+
+/!\ this pakage is going to be deleted later /!\
